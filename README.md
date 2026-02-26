@@ -1,4 +1,5 @@
 # Tanzanian Tourism Market Segmentation ML for Tanzanian Tourism Board
+<img width="1536" height="1024" alt="Copilot_20260226_114140" src="https://github.com/user-attachments/assets/61259ab4-e48a-4658-be0c-f2c91709b466" />
 
 ## Project Overview
 A machine learning-based tourism market segmentation system using unsupervised clustering and dimensionality reduction techniques. This project leverages **K-Means Clustering with PCA (Principal Component Analysis)** to identify distinct tourist segments based on spending patterns, travel behavior, and demographics, supporting Tanzania's tourism board in strategic market targeting and revenue optimization.
